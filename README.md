@@ -11,7 +11,7 @@ Utilities for NF developer setup/etc
    directory.
    ```shell
    $ for repo in utils MoonGen NetBricks; do \
-       git clone git@github.com:williamofockham/${repo}.git; \
+       git clone https://github.com/williamofockham/${repo}.git; \
      done
    ```
 2. [Install Vagrant](https://www.vagrantup.com/docs/installation/) and
